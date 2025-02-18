@@ -24,8 +24,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HCKAlisa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HCKAlisa&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HCKAlisa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HCKAlisa&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
