@@ -114,15 +114,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HCKAlisa&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HCKAlisa/count.svg?"  />
-</div>
-
-###
